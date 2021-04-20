@@ -30,7 +30,7 @@ export function Welcome() {
           >
         </Text>
     </TouchableOpacity>
-    </SafeAreaView>
+    </SafeAreaView> 
   )
 }
 
