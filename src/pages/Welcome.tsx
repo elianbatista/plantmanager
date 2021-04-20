@@ -29,7 +29,7 @@ export function Welcome() {
         <Text style={styles.buttonText}> 
           >
         </Text>
-    </TouchableOpacity>
+    </TouchableOpacity> 
     </SafeAreaView> 
   )
 }
