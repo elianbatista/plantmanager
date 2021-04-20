@@ -32,7 +32,7 @@ export function Welcome() {
     </TouchableOpacity>  
     </SafeAreaView>  
   ) 
-}
+} 
 
 const styles = StyleSheet.create({
   container: { 
