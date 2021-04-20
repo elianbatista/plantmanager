@@ -31,7 +31,7 @@ export function Welcome() {
         </Text>
     </TouchableOpacity> 
     </SafeAreaView> 
-  )
+  ) 
 }
 
 const styles = StyleSheet.create({
