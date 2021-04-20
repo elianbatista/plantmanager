@@ -29,8 +29,8 @@ export function Welcome() {
         <Text style={styles.buttonText}> 
           >
         </Text> 
-    </TouchableOpacity> 
-    </SafeAreaView> 
+    </TouchableOpacity>  
+    </SafeAreaView>  
   ) 
 }
 
